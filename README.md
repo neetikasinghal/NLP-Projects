@@ -12,8 +12,8 @@ and corresponding numbers giving probabilities.
 ## Perceptron Classifier
 1. A Perceptron classifier(both vanilla model and average model) to identify hotel reviews as either truthful or deceptive, and either positive or negative
 with no external python libraries used.
-2. Run perceplearn.py and give input data as command line argument. It will create vanilla model file and average model file with words as features.
-3. Run percepclassify giving vanilla/average model file path as first argument and test data path as second argument.
+2. Run perceplearn3.py and give input data as command line argument. It will create vanilla model file and average model file with words as features.
+3. Run percepclassify3.py giving vanilla/average model file path as first argument and test data path as second argument.
 
 ## Hidden Markov Model Part-of-Speech Tagger(HMM-POS Tagger)
 1. A Hidden Markov Model part-of-speech tagger for Italian, Japanese, and a surprise language. The training data are provided tokenized and tagged.
